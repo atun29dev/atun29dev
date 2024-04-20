@@ -1,6 +1,6 @@
 ### Hi there, I'm Tuan Le! 👋
 
-I'm a passionate software developer based in SOARIG VIETNAM. Here's a little bit about me:
+I'm a passionate software developer based in SOARIG VIETNAM, previously known as HIKONI. Here's a little bit about me:
 
 - 👀 I’m interested in web development, data analysis and software architecture.
 - 🌱 I’m currently learning about Python (DRF) and DevOps practices.
