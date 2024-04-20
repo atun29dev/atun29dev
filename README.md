@@ -3,7 +3,7 @@
 I'm a passionate software developer based in SOARIG VIETNAM, previously known as HIKONI. Here's a little bit about me:
 
 - 👀 I’m interested in web development, data analysis and software architecture.
-- 🌱 I’m currently learning about Python (DRF) and DevOps practices.
+- 🌱 I’m currently learning about Python (DRF) and DevOps practices. My main expertise lies in PHP Laravel with over 2 years of experience.
 - 💞️ I’m looking to collaborate on open-source projects that make a positive impact.
 - 📫 You can reach me via tuanle29.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/atun29dev/).
 - 😄 Pronouns: atun29dev
